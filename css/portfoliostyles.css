@@ -47,7 +47,7 @@ section {
     background-image: linear-gradient(
         rgba(0, 0, 0, 0.3),
         rgba(0, 0, 0, 0.3)
-      ), url(industrialdesign.jpg);
+      ), url(/assets/industrialdesign.jpg);
     width: 100vw;
     height: 150px;
     text-decoration: none;
@@ -73,7 +73,7 @@ section {
     background-image: linear-gradient(
         rgba(0, 0, 0, 0.3),
         rgba(0, 0, 0, 0.3)
-      ), url(uxdesign.jpg);
+      ), url(/assets/uxdesign.jpg);
     width: 100vw;
     height: 150px;
     text-decoration: none;

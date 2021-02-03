@@ -69,7 +69,7 @@ h2 {
 }
 
 .sidecarducati {
-    background-image: url(sidecarducati1.jpg);
+    background-image: url(/assets/SidecarDucati.jpg);
     width: 500px;
     height: 500px;
     justify-content: center;
@@ -90,7 +90,7 @@ h2 {
     font: 16px;
 }
 .monsterlamp {
-    background-image: url(monsterlamp1.jpg);
+    background-image: url(/assets/monsterlamp1.jpg);
     width: 500px;
     height: 500px;
     justify-content: center;

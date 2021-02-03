@@ -47,7 +47,7 @@ h3 {
 }
 
 main { 
-    background-image: url(fondocanilleras.jpg);
+    background-image: url(/assets/fondocanilleras.jpg);
     background-size: cover;
     text-align: left;
     color: white;
@@ -137,7 +137,7 @@ button {
     text-align: center;
     align-content: center;
 	justify-content: center;
-    background-image: url(fondoportfolio.jpg);
+    background-image: url(/assets/fondoportfolio.jpg);
     background-position: 0%;
     height: 300px;
     color: white;

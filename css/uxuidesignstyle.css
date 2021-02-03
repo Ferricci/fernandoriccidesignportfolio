@@ -64,7 +64,7 @@ h2 {
 }
 
 .appcelebrate {
-    background-image: url(celebrate.jpg);
+    background-image: url(/assets/celebrate.jpg);
     width: 500px;
     height: 500px;
     justify-content: center;
@@ -85,7 +85,7 @@ h2 {
 
 }
 .timbredepedidosya {
-    background-image: url(tiembrepedidosya.jpg);
+    background-image: url(/assets/tiembrepedidosya.jpg);
     width: 500px;
     height: 500px;
     justify-content: center;
@@ -106,7 +106,7 @@ h2 {
 }
 
 .tubiciusada {
-    background-image: url(tubiciusada.jpg);
+    background-image: url(/assets/tubiciusada.jpg);
     width: 500px;
     height: 500px;
     justify-content: center;
